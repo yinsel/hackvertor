@@ -1,5 +1,18 @@
 # Changelog
 
+## Version v2.2.45 (2026-04-01)
+
+- Merge pull request #160 from psalire/master
+- Add remove_newlines tag
+- Merge pull request #159 from yinsel/master
+- Sync font with the configured font; update default file encoding detection
+- Update CHANGELOG.md for v2.2.45
+- Bumped version
+- Fixed UI issues
+- Fixed UI issues
+- Update CHANGELOG.md for v2.2.43
+- Merge pull request #156 from snooze6/master
+
 ## Version v2.2.45 (2026-02-19)
 
 - Bumped version
